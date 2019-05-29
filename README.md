@@ -1,4 +1,4 @@
-Dark color schemes for [PL/SQL Developer](https://www.allroundautomations.com)
+Dark color themes for [PL/SQL Developer](https://www.allroundautomations.com)
 ===============================================
 
 
@@ -10,12 +10,12 @@ Dark color schemes for [PL/SQL Developer](https://www.allroundautomations.com)
 
 Description
 ------------
-Several dark color schemes. Spin-off from [Notepad++](https://notepad-plus-plus.org) and [Intellij Idea](https://www.jetbrains.com/idea/)
+Several dark color themes. Spin-off from [Notepad++](https://notepad-plus-plus.org) and [Intellij Idea](https://www.jetbrains.com/idea/)
 
 The highlight parameters were adapted to be more remarkable (see [screenshots](#screenshots)).
 
 
-Schemes
+Themes
 -------
 * **[`Bespin`](#bespin)** 
 * **[`Black Board`](#black-board)**
@@ -49,7 +49,7 @@ Installation
 
 ![Import_pref](https://user-images.githubusercontent.com/48009525/53729848-c8b41000-3e8f-11e9-9808-70dfbaf62932.png)
 
-4. Press the `Select File...` button and select needed color scheme file
+4. Press the `Select File...` button and select needed color theme file
 ![Import_selected](https://user-images.githubusercontent.com/48009525/53729888-de293a00-3e8f-11e9-8a9a-00aeab6f4407.png)
 
 5. Press the `Import` button
