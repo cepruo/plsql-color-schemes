@@ -1,4 +1,4 @@
-Dark color themes for [PL/SQL Developer](https://www.allroundautomations.com)
+Dark and light color themes for [PL/SQL Developer](https://www.allroundautomations.com)
 ===============================================
 
 
