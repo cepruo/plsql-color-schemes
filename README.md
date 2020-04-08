@@ -67,12 +67,16 @@ Installation
 
 ![Import_pref](https://user-images.githubusercontent.com/48009525/53729848-c8b41000-3e8f-11e9-9808-70dfbaf62932.png)
 
+
 **4.** Press the `Select File...` button and select needed color theme file
+
 ![Import_selected](https://user-images.githubusercontent.com/48009525/53729888-de293a00-3e8f-11e9-8a9a-00aeab6f4407.png)
 
 **5.** Press the `Import` button
 
+
 **6.** Check that file is opened successfully at the bottom of the `Import` tab
+
 ![Import_success](https://user-images.githubusercontent.com/48009525/53729936-fa2cdb80-3e8f-11e9-84f3-9266f790228f.png)
 
 **7.** Close the `Export\Import...` window
