@@ -10,7 +10,7 @@ Dark color themes for [PL/SQL Developer](https://www.allroundautomations.com)
 
 Description
 ------------
-Several dark color themes. Spin-off from [Notepad++](https://notepad-plus-plus.org) and [Intellij Idea](https://www.jetbrains.com/idea/)
+Several dark and light color themes. Spin-off from [Notepad++](https://notepad-plus-plus.org) and [Intellij Idea](https://www.jetbrains.com/idea/)
 
 The highlight parameters were adapted to be more remarkable (see [screenshots](#screenshots)).
 
