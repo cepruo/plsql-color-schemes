@@ -15,7 +15,7 @@ Several dark and light color themes. Spin-off from [Notepad++](https://notepad-p
 The highlight parameters were adapted to be more remarkable (see [screenshots](#screenshots)).
 
 
-Themes
+Themes list
 -------
 
 * **[`Dark`](#dark)**
